@@ -90,5 +90,3 @@ Implementation of various autoencoder architectures.
 - Variational autoencoder (VAE)
 - Dimensionality reduction examples
 
-
-### 12. 
